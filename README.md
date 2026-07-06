@@ -305,7 +305,7 @@ UTF-8 without BOM / CRLF
 ## Acknowledgements
 
 - Implementation support: OpenAI ChatGPT
-- Monitor control support: ControlMyMonitor by NirSoft
+- DDC/CI testing and reference tool: ControlMyMonitor by NirSoft
 
 ---
 
