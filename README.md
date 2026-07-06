@@ -54,6 +54,8 @@ BeyondDimmer returns from the Beyond range to normal Brightness control. `MAX` i
   <img src="assets/readme/demo_brightness_to_max_80pct.gif" alt="Brightness to MAX demo" width="720">
 </p>
 
+> **Note:** This GIF was recorded with screen capture, so the actual brightness and contrast changes are not visible in the GIF. On a real monitor, the screen brightness does change.
+
 ---
 
 ## How the Beyond range works
